@@ -3,7 +3,7 @@
 Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
-  - 🔭 I’m currently working on my personal projects
+  - 🔭 I’m currently working on final projects for my college  
   - ⚡ Excited to create open-source projects
   - 🌱 I’m currently learning MERN stack
   - 💕 I'm currently fall in love with Javascript
