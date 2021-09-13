@@ -1,12 +1,13 @@
 ### Hi there 👋 , I'm Muhammad Fadzrin Madu!
     
-Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia. I've enjoyed JavaScript and make it the main language in creating a project.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal project 
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning MERN stack
+  - 🌱 I’m currently learning MERN stack technology
   - 💕 I'm currently fall in love with Javascript
+  - 💬 Feel free to ask me about web development or JavaScript
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
 
 ### Tech Stack
