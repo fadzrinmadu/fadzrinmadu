@@ -21,7 +21,7 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software En
         <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
     </a>
     <a href="https://expressjs.com/">
-        <img align="left" alt="Express" title="Express (NodeJS HTTP Framework)" width="21px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.png" />
+        <img align="left" alt="Express" title="Express (NodeJS Framework)" width="21px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.png" />
     </a>
     <a href="https://hapi.dev/">
         <img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" />
