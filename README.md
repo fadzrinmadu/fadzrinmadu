@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Muhammad Fadzrin Madu!
     
-Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia. I've enjoyed JavaScript and make it the main language in creating a project.
+Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal project 
