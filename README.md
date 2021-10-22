@@ -5,8 +5,7 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software En
 ### Talking About Personal Stuffs:
   - 🔭 I’m currently working on my personal project 
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning MERN stack technology
-  - 💕 I'm currently fall in love with Javascript
+  - 🌱 I’m currently learning Node.js and React
   - 💬 Feel free to ask me about web development or JavaScript
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
 
@@ -20,9 +19,6 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Web Developer** and a **Software En
     </a>
     <a href="https://reactjs.org/">
         <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-    </a>
-    <a href="https://expressjs.com/">
-        <img align="left" alt="Express" title="Express (NodeJS Framework)" width="21px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.png" />
     </a>
     <a href="https://hapi.dev/">
         <img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" />
