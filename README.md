@@ -23,6 +23,9 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Web Developer** and a **S
     <a href="https://hapi.dev/">
         <img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" />
     </a>
+    <a href="https://nextjs.org/">
+        <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
+    </a>
 </p>
 
 <br /> 
