@@ -20,8 +20,8 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Web Developer** and a **S
     <a href="https://reactjs.org/">
         <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
     </a>
-    <a href="https://hapi.dev/">
-        <img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" />
+        <a href="https://expressjs.com/">
+        <img align="left" alt="Express" title="Express (NodeJS Framework)" width="21px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" />
     </a>
     <a href="https://nextjs.org/">
         <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
