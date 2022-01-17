@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Muhammad Fadzrin Madu!
     
-Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Web Developer** from Indonesia.
+Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Web Developer** and **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking About Personal Stuffs:
   - 🔭 I’m currently working on my personal project 
