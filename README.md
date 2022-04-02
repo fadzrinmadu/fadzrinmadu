@@ -23,9 +23,9 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Web Developer** and **Sof
         <a href="https://expressjs.com/">
         <img align="left" alt="Express" title="Express (NodeJS Framework)" width="21px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" />
     </a>
-    <a href="https://nextjs.org/">
+<!--     <a href="https://nextjs.org/">
         <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
-    </a>
+    </a> -->
 </p>
 
 <br /> 
