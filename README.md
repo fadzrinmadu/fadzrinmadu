@@ -5,31 +5,9 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Developer** and **Softwar
 ### Talking About Personal Stuffs:
   - 🔭 I’m currently working on my personal project 
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning Node.js and React
-  - 💬 Feel free to ask me about web development or JavaScript
+  - 🌱 I’m currently learning Clean Architecture Application
+  - 💬 Feel free to ask me about Software Development
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
-
-### Tech Stack
-<p>
-    <a href="#">
-        <img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-    </a>
-    <a href="https://nodejs.org/">
-        <img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-    </a>
-    <a href="https://reactjs.org/">
-        <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-    </a>
-        <a href="https://expressjs.com/">
-        <img align="left" alt="Express" title="Express (NodeJS Framework)" width="21px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" />
-    </a>
-<!--     <a href="https://nextjs.org/">
-        <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
-    </a> -->
-</p>
-
-<br /> 
-<br />
   
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fadzrinmadu&show_icons=true&include_all_commits=true&count_private=true" alt="fadzrinmadu" height="200" />
