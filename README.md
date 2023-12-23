@@ -10,8 +10,8 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Developer** and **Softwar
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
   
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fadzrinmadu&show_icons=true&include_all_commits=true&count_private=true" alt="fadzrinmadu" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadzrinmadu&layout=compact&langs_count=10" alt="fadzrinmadu" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fadzrinmadu&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="fadzrinmadu" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadzrinmadu&layout=compact&langs_count=10&theme=algolia" alt="fadzrinmadu" height="200" />
 </p>
 
 ### Let's connect!
