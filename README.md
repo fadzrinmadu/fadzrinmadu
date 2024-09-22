@@ -5,7 +5,7 @@ Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Developer** and **Softwar
 ### Talking About Personal Stuffs:
   - 🔭 I’m currently focus on building a youtube channel
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning Clean Architecture & Blockchain Technology
+  - 🌱 I’m currently learning Clean Architecture & Machine Learning
   - 💬 Feel free to ask me about Software Development
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
   
