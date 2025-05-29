@@ -3,7 +3,7 @@
 Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Developer** and **Software Engineering Student** 🚀 from Indonesia.
 
 ### Talking About Personal Stuffs:
-  - 🔭 I’m currently focus on building a youtube channel
+  - 🔭 I’m currently focus on learning the Swift Programming Language
   - ⚡ Excited to create open-source projects
   - 🌱 I’m currently learning Clean Architecture & Cryptography
   - 💬 Feel free to ask me about Software Development
