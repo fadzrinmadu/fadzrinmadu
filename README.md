@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Muhammad Fadzrin Madu!
     
-Hi there, I'm **Muhammad Fadzrin Madu**, a **Fullstack Developer** and **Software Engineering Student** 🚀 from Indonesia.
+Hi there, I'm Muhammad Fadzrin Madu, a Fullstack Developer and Software Engineering from Indonesia 🚀.
 I work with JavaScript, React, iOS (Swift), Node.js, and Golang as my main tech stack, with JavaScript and Swift being my favorites for building impactful applications.
 
 I’m also active as a YouTube Content Creator, sharing insights about coding, mobile development, and the tech industry.
