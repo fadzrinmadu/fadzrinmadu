@@ -7,10 +7,10 @@ I’m also active as a YouTube Content Creator, sharing insights about coding, m
 I believe in continuous learning, collaboration, and sharing knowledge with the community to grow together.
 
 ### Talking About Personal Stuffs:
-  - 🔭 I’m currently focus on learning the Swift Programming Language
-  - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning Clean Architecture & Cryptography
-  - 💬 Feel free to ask me about Software Development
+  - 🔭 I’m currently focusing on building my YouTube channel
+  - ⚡ Excited about creating open-source projects
+  - 🌱 I’m currently learning Clean Architecture & Design Patterns
+  - 💬 Feel free to ask me anything about Software Development
   - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
   
 <p>
