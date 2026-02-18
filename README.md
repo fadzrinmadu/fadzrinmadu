@@ -3,7 +3,7 @@
 Hi there, I'm Muhammad Fadzrin Madu, a Fullstack Developer and Software Engineering from Indonesia 🚀.
 I work with JavaScript, React, iOS (Swift), and Node.js as my main tech stack, with JavaScript and Swift being my favorites for building impactful applications.
 
-I’m also active as a YouTube Content Creator, sharing insights about coding, mobile development, and the tech industry.
+I’m also active as a YouTube Content Creator, sharing insights about coding, web, mobile development, and the tech industry.
 I believe in continuous learning, collaboration, and sharing knowledge with the community to grow together.
 
 ### Talking About Personal Stuffs:
