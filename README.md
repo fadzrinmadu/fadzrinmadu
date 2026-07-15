@@ -5,7 +5,7 @@ I specialize in **JavaScript/React** and **iOS (Swift)**, with **Node.js** for b
 
 ---
 ### 💼 What I Do
-- 📱 Build and maintain **native iOS apps** (Swift), currently applying this daily as an iOS Developer at <a href="https://www.bri.co.id/web/guest">PT Bank Rakyat Indonesia (Persero) Tbk</a>
+- 📱 iOS Developer (Swift) at <a href="https://www.bri.co.id/web/guest">PT Bank Rakyat Indonesia (Persero) Tbk</a>
 - 🌐 Build **web apps and UI systems** with React/Next.js and reusable component libraries
 - 🏗️ Apply **Clean Architecture & Design Patterns** to keep codebases scalable as they grow
 - 🤖 Currently deepening my skills in **AI integration** for product features
@@ -13,6 +13,7 @@ I specialize in **JavaScript/React** and **iOS (Swift)**, with **Node.js** for b
 ---
 ### 🚀 Availability
 I'm open to **freelance / contract projects** outside my full-time role, mobile app development, frontend engineering, or fullstack builds. If you need someone who can take a feature from idea to shipped product, let's talk.
+<br/>
 📧 <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
 
 ---
