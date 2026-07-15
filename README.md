@@ -1,20 +1,26 @@
 ### Hi there 👋 , I'm Muhammad Fadzrin Madu!
     
-Hi there, I'm Muhammad Fadzrin Madu, a Fullstack Developer and Software Engineering from Indonesia 🚀.
-I work with JavaScript, React, iOS (Swift), and Node.js as my main tech stack, with JavaScript and Swift being my favorites for building impactful applications.
+**Fullstack & iOS Developer** helping startups and teams ship reliable, production-ready apps from mobile to web.
+I specialize in **JavaScript/React** and **iOS (Swift)**, with **Node.js** for backend work. I focus on clean architecture and maintainable code, so what I build doesn't just work it scales.
 
-I’m also active as a YouTube Content Creator, sharing insights about coding, web, mobile development, and the tech industry.
-I believe in continuous learning, collaboration, and sharing knowledge with the community to grow together.
+---
+### 💼 What I Do
+- 📱 Build and maintain **native iOS apps** (Swift), currently applying this daily as an iOS Developer at <a href="https://www.bri.co.id/web/guest">PT Bank Rakyat Indonesia (Persero) Tbk</a>
+- 🌐 Build **web apps and UI systems** with React/Next.js and reusable component libraries
+- 🏗️ Apply **Clean Architecture & Design Patterns** to keep codebases scalable as they grow
+- 🤖 Currently deepening my skills in **AI integration** for product features
 
-### Talking About Personal Stuffs:
-  - 🔭 I’m currently focusing on building my YouTube channel
-  - ⚡ Excited about creating open-source projects
-  - 🌱 I’m currently learning Clean Architecture & Design Patterns
-  - 💬 Feel free to ask me anything about Software Development
-  - 📫 You can reach me at <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
+---
+### 🚀 Availability
+I'm open to **freelance / contract projects** outside my full-time role, mobile app development, frontend engineering, or fullstack builds. If you need someone who can take a feature from idea to shipped product, let's talk.
+📧 <a href="mailto:muhfadzrinmadu@gmail.com">muhfadzrinmadu@gmail.com</a>
 
-### Let's connect!
+---
+### 🌱 A Bit More
+I also share what I learn as a <a href="https://www.youtube.com/channel/UCETxK4cc6bzBj6wE1YhrC-g?sub_confirmation=1">**YouTube Content Creator**</a>, covering coding, mobile development, and the tech industry because I believe in building in public and growing with the community.
 
+---
+### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadzrinmadu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadzrinmadu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/fadzrinmadu)
@@ -23,18 +29,3 @@ I believe in continuous learning, collaboration, and sharing knowledge with the 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fadzrinmadu)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](http://codewars.com/users/fadzrinmadu)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhfadzrinmadu@gmail.com?subject=github_message)
-
-<!--
-**fadzrinmadu/fadzrinmadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
